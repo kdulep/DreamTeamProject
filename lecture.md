@@ -1,6 +1,6 @@
 # Знакомство с контролем версий
-* [Git](https://git-scm.com/downloads) ![Git](rsz_git-logo-2colorx2.png)
-* [Github](https://github.com/) ![GitHub](rsz_github_logo.png)
+* [Git](https://git-scm.com/downloads) ![Git](pictures/rsz_git-logo-2colorx2.png)
+* [Github](https://github.com/) ![GitHub](pictures/rsz_github_logo.png)
 
 Ваш сайт и новые функции, сохранение рабочей версии, папка, архив
 
@@ -25,7 +25,7 @@
 # Git
 Линус Торвальдс создатель Linux, git
 
-![Linus](80hxyr8x3h6z.webp)
+![Linus](pictures/80hxyr8x3h6z.webp)
 
 [Reddit](https://www.reddit.com/r/linuxmasterrace/comments/6k4li1/of_young_linus_torvalds_the_finnish_way_towar)
 
