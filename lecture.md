@@ -26,7 +26,10 @@
 
 # Git
 Линус Торвальдс создатель Linux, git
+
 ![Linus](80hxyr8x3h6z.webp)
+
+[Reddit](https://www.reddit.com/r/linuxmasterrace/comments/6k4li1/of_young_linus_torvalds_the_finnish_way_towar)
 
 ## Пример git
 * текст+текст
