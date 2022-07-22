@@ -1,2 +1,2 @@
 # DreamTeamProject
-gb project
+gb project see [lecture.md](lecture.md)
