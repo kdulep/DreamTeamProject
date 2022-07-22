@@ -2,7 +2,7 @@
 
 # Знакомство с контролем версий
 * [Git](https://git-scm.com/downloads) ![Git](rsz_git-logo-2colorx2.png)
-* [Github](https://github.com/)
+* [Github](https://github.com/) ![GitHub](GitHub_Logo_White.png)
 
 Ваш сайт и новые функции, сохранение рабочей версии, папка, архив
 
