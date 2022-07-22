@@ -1,5 +1,3 @@
-# О лекторе - Ильнар Шафигуллин
-
 # Знакомство с контролем версий
 * [Git](https://git-scm.com/downloads) ![Git](rsz_git-logo-2colorx2.png)
 * [Github](https://github.com/) ![GitHub](rsz_github_logo.png)
